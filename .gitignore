@@ -1,6 +1,8 @@
 .DS_Store
 /iso/*
 !/iso/README.md
+/output-qemu/
+/output-qemu-iso/
 /output-vmware/
 /output-vmware-iso/
 /output-vmware-vmx/
